@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tonsky/datascript)
+
 <img src="./extras/logo.svg">
 
 > What if creating a database would be as cheap as creating a Hashmap?
